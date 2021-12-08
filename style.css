@@ -58,6 +58,7 @@ main {
   outline: none;
   align-items:center;
   text-align:center;
+ font-size:16px;
   margin-bottom: 16px;
 }
 
@@ -68,6 +69,7 @@ main {
   border-radius: 2px;
   border: none;
   cursor: pointer;
+  font-size:16px;
   margin-bottom: 24px;
 }
 
@@ -79,13 +81,14 @@ main {
 #output-text {
   color: var(--black);
    border: none;
-  border-radius: 12px;
+  border-radius: 18px;
   align-items:center;
   text-align:center;
   width: 100%;
   padding: 16px;
   outline: none;
   margin-bottom: 16px;
+  font-size:16px;
 }
 
 #footer {
